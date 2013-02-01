@@ -3,9 +3,9 @@ myjscore
 
 JavaScript core object enhance.
 
-//TODO: 添加js build工具;
-//TODO: 添加js doc 工具;（js doc 工具推荐）
-//TODO: 添加单元测试;
+//TODO: add js doc support;
+
+//TODO: add unit test support;
 
 
 
